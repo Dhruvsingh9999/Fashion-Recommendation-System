@@ -1,5 +1,5 @@
-# Fashion-Recommendation-System
-# 🛍b Fashion Recommendation System
+
+# 🛍 Fashion Recommendation System
 
 ## 🚀 Overview
 This project is an AI-powered **Fashion Recommendation System** that suggests similar fashion items based on image inputs. It leverages **Deep Learning (ResNet50)** for feature extraction and **Nearest Neighbors Algorithm** for recommendations.
